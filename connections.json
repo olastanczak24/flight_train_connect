@@ -1,0 +1,354 @@
+{
+    "nodes": [
+        {
+            "id": "Napoli",
+            "type": "hub"
+        },
+        {
+            "id": "Rome",
+            "type": "flight",
+            "label": "AZ123"
+        },
+        {
+            "id": "London",
+            "type": "flight",
+            "label": "U2335"
+        },
+        {
+            "id": "Barcelona",
+            "type": "flight",
+            "label": "FR567"
+        },
+        {
+            "id": "Frankfurt",
+            "type": "flight",
+            "label": "LH456"
+        }
+    ],
+    "connections": [
+        {
+            "from": "Napoli",
+            "to": "Madrid",
+            "label": "IC552 -> IB1832",
+            "time": "13:05 -> 14:50"
+        },
+        {
+            "from": "Napoli",
+            "to": "Lyon",
+            "label": "IC552 -> U24187",
+            "time": "13:05 -> 14:55"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> AZ1296",
+            "time": "13:05 -> 15:00"
+        },
+        {
+            "from": "Napoli",
+            "to": "Zurich",
+            "label": "IC552 -> LX1711",
+            "time": "13:05 -> 15:00"
+        },
+        {
+            "from": "Napoli",
+            "to": "Rome",
+            "label": "IC552 -> AZ1270",
+            "time": "13:05 -> 15:15"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> FR4112",
+            "time": "13:05 -> 15:25"
+        },
+        {
+            "from": "Napoli",
+            "to": "Valencia",
+            "label": "IC552 -> FR6836",
+            "time": "13:05 -> 15:30"
+        },
+        {
+            "from": "Napoli",
+            "to": "Barcelona",
+            "label": "IC552 -> VY6503",
+            "time": "13:05 -> 16:00"
+        },
+        {
+            "from": "Napoli",
+            "to": "Sofia",
+            "label": "IC552 -> W64370",
+            "time": "13:05 -> 16:05"
+        },
+        {
+            "from": "Napoli",
+            "to": "Pafos",
+            "label": "IC552 -> FR638",
+            "time": "13:05 -> 16:15"
+        },
+        {
+            "from": "Napoli",
+            "to": "Amsterdam",
+            "label": "IC552 -> U24231",
+            "time": "13:05 -> 16:15"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> AZ1290",
+            "time": "13:05 -> 16:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Tunis",
+            "label": "IC552 -> UG1731",
+            "time": "13:05 -> 16:30"
+        },
+        {
+            "from": "Napoli",
+            "to": "Linz",
+            "label": "IC552 -> Linz (LNZ)",
+            "time": "13:05 -> 16:30"
+        },
+        {
+            "from": "Napoli",
+            "to": "London",
+            "label": "IC552 -> W46901",
+            "time": "13:05 -> 16:35"
+        },
+        {
+            "from": "Napoli",
+            "to": "Paris",
+            "label": "IC552 -> AF1179",
+            "time": "13:05 -> 16:45"
+        },
+        {
+            "from": "Napoli",
+            "to": "Berlin",
+            "label": "IC552 -> U24266",
+            "time": "13:05 -> 16:50"
+        },
+        {
+            "from": "Napoli",
+            "to": "Genoa",
+            "label": "IC552 -> FR4676",
+            "time": "13:05 -> 16:55"
+        },
+        {
+            "from": "Napoli",
+            "to": "Paris",
+            "label": "IC552 -> U24183",
+            "time": "13:05 -> 17:00"
+        },
+        {
+            "from": "Napoli",
+            "to": "Gdansk",
+            "label": "IC552 -> FR1897",
+            "time": "13:05 -> 17:05"
+        },
+        {
+            "from": "Napoli",
+            "to": "Tenerife",
+            "label": "IC552 -> FR8693",
+            "time": "13:05 -> 17:10"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> U23578",
+            "time": "13:05 -> 17:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Munich",
+            "label": "IC552 -> LH1879",
+            "time": "13:05 -> 18:15"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> AZ1282",
+            "time": "13:05 -> 18:25"
+        },
+        {
+            "from": "Napoli",
+            "to": "Catania",
+            "label": "IC552 -> FR4314",
+            "time": "13:05 -> 18:30"
+        },
+        {
+            "from": "Napoli",
+            "to": "London",
+            "label": "IC552 -> BA535",
+            "time": "13:05 -> 18:40"
+        },
+        {
+            "from": "Napoli",
+            "to": "Krakow",
+            "label": "IC552 -> FR4045",
+            "time": "13:05 -> 18:40"
+        },
+        {
+            "from": "Napoli",
+            "to": "Barcelona",
+            "label": "IC552 -> FR59",
+            "time": "13:05 -> 19:00"
+        },
+        {
+            "from": "Napoli",
+            "to": "Catania",
+            "label": "IC552 -> U24109",
+            "time": "13:05 -> 19:05"
+        },
+        {
+            "from": "Napoli",
+            "to": "Istanbul",
+            "label": "IC552 -> TK1880",
+            "time": "13:05 -> 19:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Rome",
+            "label": "IC552 -> AZ1274",
+            "time": "13:05 -> 19:40"
+        },
+        {
+            "from": "Napoli",
+            "to": "Tel Aviv",
+            "label": "IC552 -> 6H346",
+            "time": "13:05 -> 19:40"
+        },
+        {
+            "from": "Napoli",
+            "to": "Toulouse",
+            "label": "IC552 -> FR1337",
+            "time": "13:05 -> 19:55"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> AZ1298",
+            "time": "13:05 -> 20:05"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> FR5937",
+            "time": "13:05 -> 20:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Paris",
+            "label": "IC552 -> TO3829",
+            "time": "13:05 -> 20:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Dublin",
+            "label": "IC552 -> FR6841",
+            "time": "13:05 -> 20:25"
+        },
+        {
+            "from": "Napoli",
+            "to": "Venice",
+            "label": "IC552 -> FR869",
+            "time": "13:05 -> 20:35"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> U23580",
+            "time": "13:05 -> 20:55"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC552 -> FR4119",
+            "time": "13:05 -> 21:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Vienna",
+            "label": "IC552 -> FR9028",
+            "time": "13:05 -> 21:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Madrid",
+            "label": "IC552 -> FR1330",
+            "time": "13:05 -> 21:55"
+        },
+        {
+            "from": "Napoli",
+            "to": "Cagliari",
+            "label": "IC552 -> FR4654",
+            "time": "13:05 -> 22:05"
+        },
+        {
+            "from": "Napoli",
+            "to": "Malaga",
+            "label": "IC552 -> FR222",
+            "time": "13:05 -> 22:15"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC724 -> FR5937",
+            "time": "19:17 -> 20:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Paris",
+            "label": "IC724 -> TO3829",
+            "time": "19:17 -> 20:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Dublin",
+            "label": "IC724 -> FR6841",
+            "time": "19:17 -> 20:25"
+        },
+        {
+            "from": "Napoli",
+            "to": "Venice",
+            "label": "IC724 -> FR869",
+            "time": "19:17 -> 20:35"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC724 -> U23580",
+            "time": "19:17 -> 20:55"
+        },
+        {
+            "from": "Napoli",
+            "to": "Milan",
+            "label": "IC724 -> FR4119",
+            "time": "19:17 -> 21:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Vienna",
+            "label": "IC724 -> FR9028",
+            "time": "19:17 -> 21:20"
+        },
+        {
+            "from": "Napoli",
+            "to": "Madrid",
+            "label": "IC724 -> FR1330",
+            "time": "19:17 -> 21:55"
+        },
+        {
+            "from": "Napoli",
+            "to": "Cagliari",
+            "label": "IC724 -> FR4654",
+            "time": "19:17 -> 22:05"
+        },
+        {
+            "from": "Napoli",
+            "to": "Malaga",
+            "label": "IC724 -> FR222",
+            "time": "19:17 -> 22:15"
+        }
+    ]
+}
