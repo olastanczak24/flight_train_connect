@@ -17,8 +17,6 @@ The **Train-Flight Scheduler** is a Python-based tool designed to visualize trav
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
