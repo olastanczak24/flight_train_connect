@@ -1,7 +1,3 @@
-Here’s a more polished and structured README for your project:
-
----
-
 # Train-Flight Scheduler
 
 ## Description
